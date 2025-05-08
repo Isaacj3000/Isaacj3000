@@ -4,6 +4,8 @@ Hi 👋 My name is Isaac Jean Baptiste
 A passionate Full-Stack Developer from New York City
 ----------------------------------------------------
 
+https://www.deviantart.com/archipics/art/Boyfriend-s-Room-884665807
+
 I love creating dynamic, user-friendly web applications using technologies like React, Node.js, Express.js, MongoDB, SQL, and Django. I’ve built projects like ReelTalk, a life hack sharing platform, Recipe Manager, a community-driven recipe app, JunkDrawer, for organizing household items, and Battleship, a two-player card matching game. I’m dedicated to writing clean, maintainable code and continuously improving my skills. Beyond coding, I’m all about exploring new places. I’m excited to collaborate on impactful projects and keep growing as a developer!
 
 *   🌍  I'm based in New York
