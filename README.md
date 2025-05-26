@@ -9,7 +9,7 @@ I love creating dynamic, user-friendly web applications using technologies like 
 
 *   🌍  I'm based in New York
 *   🧠  I'm learning python
-*   ⚡  "Did you know I’m also an exterminator by profession? Coding by day, battling pests by night!"
+*   ⚡  "Did you know I’m also an exterminator by profession? Coding by Night, battling pests by Day!"
 
   
 <p align="left">
